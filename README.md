@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampradeepkumarbaral&label=Profile Views&color=blue&style=plastic" alt="shivanigupta19" /> </p>
 
-- 🔭 I’m currently working on Android Mobile Applicaion
+- 🔭 I’m currently working on Android Mobile Application
 - 🌱 I’m currently learning Flutter framework
 - 👯 I’m looking to collaborate on ...Flutter.dev
 - 🤔 I’m looking for help with Documentation
