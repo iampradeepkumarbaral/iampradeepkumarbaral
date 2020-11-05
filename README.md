@@ -15,6 +15,26 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 <!--END_SECTION:waka-->
 
+Hello, this is Pradeep Kumar Baral, having 2+ years of rich experience in Mobile Application Development.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+**`Software Engineer ( Java developer) by profession, `**
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+-  Programming Languages : Ruby, Java(Basics), C++, C.  
+-  Framework : Flutter, Spring(Basics), Dart(Basic),Android .  
+-  Worked on Linux, Unix, Centos, Mac,Window.  
+-  Worked on Python only API applications.   
+-  Version Controller : GIT, Bitbucket, GitLab.  
+-  Project Management tools : Bit-bucket, GitHub, Git-Lab.  
+-  Worked on ecommerce application, Quiz Test Online Application
+-  Integrated many SOAP and Rest API’s for the various purposes, Authorize.net, Echeck payment
+Gateway, AuthorizeCIM Payment.  
+-  Worked on databases like SQLite  
+-  Used various Firebase Integration or login via social media(Google,Facebook,LinkedIn etc..)
+-  Used Capistrano for deploying code, Deployed Application to Heroku.  
+-  Worked in Agile Methodologies and code reviews over Git-lab Pipelines, Bit-bucket/Git, etc.  
+
+
 <a href="https://github.com/iampradeepkumarbaral">
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="320" />
 </a>
